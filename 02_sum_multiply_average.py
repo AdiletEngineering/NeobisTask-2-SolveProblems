@@ -1,6 +1,6 @@
 from pprint import pprint
 
-string = input("Введите цифры через пробел: ")
+string = input("Введите 3 цифры через пробел: ")
 print("------------------------------------------------------------")
 
 array = string.split(" ")
